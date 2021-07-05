@@ -13,3 +13,10 @@ Beta version of packages which are also offered by distributions such as:
 ## Issues
 
 https://bugs.documentfoundation.org/show_bug.cgi?id=139388
+
+## See also
+
+- https://cgit.freedesktop.org/libreoffice/dictionaries/tree/Dictionary_nl.mk or
+https://cgit.freedesktop.org/libreoffice/dictionaries/plain/Dictionary_nl.mk
+- https://cgit.freedesktop.org/libreoffice/dictionaries/tree/nl_NL or
+https://cgit.freedesktop.org/libreoffice/dictionaries/plain/nl_NL/
