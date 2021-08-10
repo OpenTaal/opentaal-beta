@@ -5,26 +5,40 @@ list and spelling checker dictionary are listed here.
 
 ## Word list
 
-Download the latest architecture-independent package from:
+Install the latest architecture-independent package from:
 - Debian https://packages.debian.org/search?keywords=wdutch
 - Ubuntu https://packages.ubuntu.com/search?keywords=wdutch
 
-## Hyphenation patterns
-
-Download the latest architecture-independent package from:
-- Debian https://packages.debian.org/search?keywords=hyphen-nl
-- Ubuntu https://packages.ubuntu.com/search?keywords=hyphen-nl
+Manually upgrade by downloading
+https://raw.githubusercontent.com/OpenTaal/opentaal-wordlist/master/wordlist.txt
+and save that file as `/usr/share/dict/dutch`.
 
 ## Spelling checker dictionary for Hunspell
 
-Download the latest architecture-independent package from:
+Install the latest architecture-independent package from:
 - Debian https://packages.debian.org/search?keywords=hunspell-nl
 - Ubuntu https://packages.ubuntu.com/search?keywords=hunspell-nl
 
+Manually upgrade by downloading
+https://raw.githubusercontent.com/OpenTaal/opentaal-hunspell/master/nl.dic and
+save that file as `/usr/share/hunspell/nl.dic` and by dowloading
+https://raw.githubusercontent.com/OpenTaal/opentaal-hunspell/master/nl.aff and
+save that file as `/usr/share/hunspell/nl.aff`.
+
+## Hyphenation patterns
+
+Install the latest architecture-independent package from:
+- Debian https://packages.debian.org/search?keywords=hyphen-nl
+- Ubuntu https://packages.ubuntu.com/search?keywords=hyphen-nl
+
 ## Spelling checker dictionary for LibreOffice and OpenOffice.org
 
-Download the latest operating system-independent extension here as
-[opentaal-nl_2.20.21_beta.oxt](opentaal-nl_2.20.21_beta.oxt)
+Manually upgrade by downloading
+https://github.com/OpenTaal/opentaal-beta/raw/main/opentaal-nl_2.20.21_beta.oxt
+and installing it via `Tools / Extension Manager... / Add`. Note that this
+requires a restart of your office suite.
+
+![Extension Manager](images/extension-manager.png)
 
 See also:
 - https://bugs.documentfoundation.org/show_bug.cgi?id=139388
