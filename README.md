@@ -34,6 +34,7 @@ Install the latest architecture-independent package from:
 ## Spelling checker dictionary for LibreOffice and OpenOffice.org
 
 Manually upgrade by downloading
+from https://extensions.libreoffice.org/en/extensions/show/5711 or directly
 https://github.com/OpenTaal/opentaal-beta/raw/main/opentaal-nl_2.20.21_beta.oxt
 and installing it via `Tools / Extension Manager... / Add`. Note that this
 requires a restart of your office suite.
@@ -50,3 +51,4 @@ https://cgit.freedesktop.org/libreoffice/dictionaries/plain/nl_NL/
 Tasks:
 - Update hyphenation patterns in OXT
 - Add thesaurus to OXT (current thesaurus file needs to be cleaned up first)
+- Update https://extensions.openoffice.org/en/project/dutch-spelling-and-hyphenation-dictionary

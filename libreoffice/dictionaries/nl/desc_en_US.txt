@@ -1,3 +1,3 @@
 Dutch spelling checker dictionary and hyphenation patterns.
-Conforms to the official standard for Dutch. 
+Conforms to the official standard for Dutch.
 Made by OpenTaal, https://opentaal.org
