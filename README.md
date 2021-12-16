@@ -59,3 +59,11 @@ Tasks:
 - Update hyphenation patterns in OXT
 - Add thesaurus to OXT (current thesaurus file needs to be cleaned up first)
 - Update https://extensions.openoffice.org/en/project/dutch-spelling-and-hyphenation-dictionary
+
+## Contribute
+
+Please, help us create free and open Dutch writing tools. Donate tax free to our
+foundation at https://www.opentaal.org/vrienden-van-opentaal or contact us is
+you have word lists to database skills to offer.
+
+Donating is also possible with <noscript><a href="https://liberapay.com/opentaal/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
