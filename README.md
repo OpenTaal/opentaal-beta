@@ -10,60 +10,99 @@
 Latest versions of packages, plug-ins, add-ons and extensions for Dutch word
 list and spelling checker dictionary are listed here.
 
-## Word list
+<details>
+  <summary>
+    <b>Word List</b>
+  </summary>
+  <br>
+  
+  - [Debian](https://packages.debian.org/search?keywords=wdutch)
+  - [Ubuntu](https://packages.ubuntu.com/search?keywords=wdutch)
+  - Manually: Upgrade by downloading [wordlist.txt](https://raw.githubusercontent.com/OpenTaal/opentaal-wordlist/master/wordlist.txt) and saving that file as     `/usr/share/dict/dutch`.
+  
+  <br>
+</details>
 
-Install the latest architecture-independent package from:
-- Debian https://packages.debian.org/search?keywords=wdutch
-- Ubuntu https://packages.ubuntu.com/search?keywords=wdutch
+<details>
+  <summary>
+    <b>Spelling checker dictionary for Hunspell</b>
+  </summary>
+  <br>
+  
+- [Debian](https://packages.debian.org/search?keywords=hunspell-nl)
+- [Ubuntu](https://packages.ubuntu.com/search?keywords=hunspell-nl)
+- Manually: Upgrade by downloading [nl.dic](https://raw.githubusercontent.com/OpenTaal/opentaal-hunspell/master/nl.dic) and save that file as `/usr/share/hunspell  /nl.dic` and by dowloading [nl.aff](https://raw.githubusercontent.com/OpenTaal/opentaal-hunspell/master/nl.aff) and save that file as `/usr/share/hunspell/nl.aff`.
+  
+  <br>
+</details>
 
-Manually upgrade by downloading
-https://raw.githubusercontent.com/OpenTaal/opentaal-wordlist/master/wordlist.txt
-and save that file as `/usr/share/dict/dutch`.
+<details>
+  <summary>
+    <b>Hyphenation patterns</b>
+  </summary>
+  <br>
+  
+- [Debian](https://packages.debian.org/search?keywords=hyphen-nl)
+- [Ubuntu](https://packages.ubuntu.com/search?keywords=hyphen-nl)
+  
+  <br>
+</details>
 
-## Spelling checker dictionary for Hunspell
-
-Install the latest architecture-independent package from:
-- Debian https://packages.debian.org/search?keywords=hunspell-nl
-- Ubuntu https://packages.ubuntu.com/search?keywords=hunspell-nl
-
-Manually upgrade by downloading
-https://raw.githubusercontent.com/OpenTaal/opentaal-hunspell/master/nl.dic and
-save that file as `/usr/share/hunspell/nl.dic` and by dowloading
-https://raw.githubusercontent.com/OpenTaal/opentaal-hunspell/master/nl.aff and
-save that file as `/usr/share/hunspell/nl.aff`.
-
-## Hyphenation patterns
-
-Install the latest architecture-independent package from:
-- Debian https://packages.debian.org/search?keywords=hyphen-nl
-- Ubuntu https://packages.ubuntu.com/search?keywords=hyphen-nl
-
-## Spelling checker dictionary for LibreOffice and OpenOffice.org
-
-Manually upgrade by downloading
-from https://extensions.libreoffice.org/en/extensions/show/5711 or directly
-https://github.com/OpenTaal/opentaal-beta/raw/main/opentaal-nl_2.20.21_beta.oxt
-and installing it via `Tools / Extension Manager... / Add`. Note that this
-requires a restart of your office suite.
+<details>
+  <summary>
+    <b>Spelling checker dictionary for LibreOffice and OpenOffice.org</b>
+  </summary>
+  <br>
+  
+- [LibreOffice Extension File](https://github.com/OpenTaal/opentaal-beta/raw/main/opentaal-nl_2.20.21_beta.oxt)
+- [LibreOffice Extension Page](https://extensions.libreoffice.org/en/extensions/show/5711)
+  
+Install it via `Tools / Extension Manager... / Add`.
+  
+**Note that this requires a restart of your office suite!**
 
 ![Extension Manager](images/extension-manager.png)
+  
+  <br>
+</details>
 
-See also:
+<details>
+  <summary>
+    <b>See also</b>
+  </summary>
+  <br>
+  
 - https://bugs.documentfoundation.org/show_bug.cgi?id=139388
 - https://cgit.freedesktop.org/libreoffice/dictionaries/tree/Dictionary_nl.mk or
 https://cgit.freedesktop.org/libreoffice/dictionaries/plain/Dictionary_nl.mk
 - https://cgit.freedesktop.org/libreoffice/dictionaries/tree/nl_NL or
 https://cgit.freedesktop.org/libreoffice/dictionaries/plain/nl_NL/
+  
+  <br>
+</details>
 
-Tasks:
+<details>
+  <summary>
+    <b>Tasks</b>
+  </summary>
+  <br>
+  
 - Update hyphenation patterns in OXT
 - Add thesaurus to OXT (current thesaurus file needs to be cleaned up first)
 - Update https://extensions.openoffice.org/en/project/dutch-spelling-and-hyphenation-dictionary
+  
+  <br>
+</details>
 
-## Contribute
-
-Please, help us create free and open Dutch writing tools. Donate tax free to our
-foundation at https://www.opentaal.org/vrienden-van-opentaal or contact us is
-you have word lists to database skills to offer.
+<details>
+  <summary>
+    <b>Contribute</b>
+  </summary>
+  <br>
+  
+Please, help us create free and open Dutch writing tools. Donate tax free to our foundation at [opentaal.org/vrienden-van-opentaal](https://www.opentaal.org/vrienden-van-opentaal) or contact us if you have word lists or database skills to offer.
 
 Donating is also possible with <noscript><a href="https://liberapay.com/opentaal/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+  
+  <br>
+</details>
